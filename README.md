@@ -41,9 +41,7 @@ This codebase is written in Python 3.x. Additional packages required are:
 - seaborn
 - scikit-learn
 
-## Contributing
 
-Your contributions are always welcome! Please have a look at the [contribution guidelines](CONTRIBUTING.md) first. :tada:
 
 ## License
 
@@ -51,5 +49,4 @@ This project is licensed under the terms of the [MIT License](/LICENSE).
 
 ---
 
-Please replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name. If there are any additional sections or details you would like to include, feel free to modify the template.
 
